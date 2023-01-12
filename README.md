@@ -48,7 +48,7 @@ Create an `appsettings.json` file in the `Cheesebyte.HoldMyCrypto.Console` proje
 ```json
 {
   "JsonCache": {
-    "BaseCachePath": "/Path/To/YourAccount/HoldMyBudget/Cache"
+    "BaseCachePath": "/Path/To/Your/Data/Cache"
   },
   "AssetExtract": {
     "TimeStart": "1/1/2021 12:00:00 AM",
