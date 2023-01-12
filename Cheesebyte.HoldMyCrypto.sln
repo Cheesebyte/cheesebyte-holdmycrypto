@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheesebyte.HoldMyCrypto.Console", "Cheesebyte.HoldMyCrypto.Console\Cheesebyte.HoldMyCrypto.Console.csproj", "{72226E15-DF9C-4708-A994-203FD516A1C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EEDC4F98-60B3-4724-B495-4310D628BE97}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		COPYING = COPYING
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheesebyte.HoldMyCrypto.RangeImport", "Cheesebyte.HoldMyCrypto.RangeImport\Cheesebyte.HoldMyCrypto.RangeImport.csproj", "{C1760958-EA24-42B7-B791-2B1169A4C200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72226E15-DF9C-4708-A994-203FD516A1C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72226E15-DF9C-4708-A994-203FD516A1C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72226E15-DF9C-4708-A994-203FD516A1C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72226E15-DF9C-4708-A994-203FD516A1C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1760958-EA24-42B7-B791-2B1169A4C200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1760958-EA24-42B7-B791-2B1169A4C200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1760958-EA24-42B7-B791-2B1169A4C200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1760958-EA24-42B7-B791-2B1169A4C200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA303F1B-A998-45EC-B3DB-CA7AD31463C1}
+	EndGlobalSection
+EndGlobal
