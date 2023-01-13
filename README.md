@@ -104,5 +104,5 @@ Build the full solution with projects via the IDE or the `dotnet` tool.
 > ⚠️ Rate limits might *not* be handled correctly yet. This is a work in progress, likely to contain bugs. Use it on your own risk and run with a `testnet` first.
 
 Choose one of the following configurations to run the program with.
-* `Console: force update`
-* `Console: use cache`
+- [ ] Console: force update
+- [ ] Console: use cache
